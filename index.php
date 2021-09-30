@@ -1,5 +1,7 @@
 <?php echo 'hello world'
-    if ($test=='sample') {
+    if ($test=='samplesss') {
          echo 'masuk waks';
+         
+          echo 'hello';
     }
 ;
